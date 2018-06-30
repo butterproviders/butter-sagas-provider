@@ -1,0 +1,13 @@
+{
+  "name": "butter-sagas-provider",
+  "version": "0.0.1",
+  "description": "Put a provider in, get sagas and actions out",
+  "main": "index.js",
+  "repository": "https://github.com/butterproviders/butter-sagas-provider",
+  "author": "Niv Sardi <x@btn.sh>",
+  "license": "GPLv3.0",
+  "dependencies": {
+    "butter-provider": "^0.9.7",
+    "redux-saga": "^0.16.0"
+  }
+}
